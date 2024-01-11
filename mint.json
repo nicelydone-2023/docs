@@ -76,6 +76,6 @@
     "linkedin": "https://www.linkedin.com/company/mintsearch"
   },
   "feedback": {
-    thumbsRating: true
-}
+    "thumbsRating": true
+  }
 }
